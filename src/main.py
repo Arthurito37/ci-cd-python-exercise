@@ -1,2 +1,2 @@
 def soma(a, b):
-    return a + b + 1 # Introduzindo um erro proposital
+    return a + b # Corrigindo o erro
